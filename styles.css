@@ -1,2 +1,26 @@
 
+.container{
+	height:400px;
+	display :flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	top:0px;
+}
+.three{
+	background-color:green;
+	height:80px;
+	width:80px;
+}
+.two{
+	background-color:blue;
+	height:80px;
+	width:80px;
+}
+.one{
+	background-color:red;
+	height:80px;
+	width:80px;
+}
+}
+
 /* Your CSS Code here. */
